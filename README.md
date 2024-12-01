@@ -1,2 +1,2 @@
 # 001
-entry-level git builds
+Inexperienced git builds
